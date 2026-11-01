@@ -2,7 +2,7 @@
 
 ## About This Project
 
-This is my first Git and GitHub practice project. I created it to understand version control and learn how developers manage code changes.
+This is my first Git and GitHub practice project. I created it to understand version control and learn how developers manage code changes.I am practising Git Pull and learning version control.
 
 ## Technologies Used
 
